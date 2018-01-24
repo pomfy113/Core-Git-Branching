@@ -24,7 +24,7 @@ He took a tentative step through the door and followed the stone path overgrown 
 
 Billy met the Unicorn King who granted him magic powers.
 Billy must save the Unicorn Kingdom from the dreaded Zookeeper - a puppet of the Narwhal Emperor.
-Together with his spunky sidekick - the Friendly Koala - he must defeat the zookeeper, uncover the plot, and bring balance back to the world.
+He must defeat the zookeeper, uncover the plot, and bring balance back to the world.
 The end.
 
 ## Cast
