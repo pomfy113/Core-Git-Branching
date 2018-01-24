@@ -23,6 +23,10 @@ The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 Billy met the Unicorn King who granted him magic powers.
+
+Before the final blow was struck, the Zookeeper tore a hole between dimensions where his evil was law.
+However, Billy saw this coming and used his magical powers to turn the Zookeeper into a powerless salaryman.
+Seeing the folly of his ways, the now-powerless Zookepeer decided to file his taxes and spend more time with his children.
 The end.
 
 ## Cast
