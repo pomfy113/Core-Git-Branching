@@ -23,7 +23,8 @@ The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 Billy met the Unicorn King who granted him magic powers.
-
+Billy must save the Unicorn Kingdom from the dreaded Zookeeper - a puppet of the Narwhal Emperor.
+He must defeat the zookeeper, uncover the plot, and bring balance back to the world.
 Before the final blow was struck, the Zookeeper tore a hole between dimensions where his evil was law.
 However, Billy saw this coming and used his magical powers to turn the Zookeeper into a powerless salaryman.
 Seeing the folly of his ways, the now-powerless Zookepeer decided to file his taxes and spend more time with his children.
@@ -33,5 +34,6 @@ The end.
 
 * Billy: Eliel
 * Unicorn King: Alan
+* Narwhal Emperor: Alan (in a different suit)
 * Zookeeper: Braus
 * Friendly Koala: Mike
