@@ -23,11 +23,13 @@ The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 Billy met the Unicorn King who granted him magic powers.
+Billy must save the Unicorn Kingdom from the dreaded Zookeeper - the Narwhal Emperor in disguise.
 The end.
 
 ## Cast
 
 * Billy: Eliel
 * Unicorn King: Alan
+* Narwhal Emperor: Alan (in a different suit)
 * Zookeeper: Braus
 * Friendly Koala: Mike
