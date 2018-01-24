@@ -27,7 +27,7 @@ The end.
 
 ## Cast
 
-* Young Boy: Eliel
+* George: Eliel
 * Unicorn King: Alan
 * Zookeeper: Braus
 * Friendly Koala: Mike
